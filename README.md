@@ -1,5 +1,4 @@
-# IPBES_TCA
-Transformative Change Assesment
+# IPBES Transformative Change Assessment
 
 ## Data Management Reports
 
